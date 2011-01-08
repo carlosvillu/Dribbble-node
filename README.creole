@@ -1,1 +1,3 @@
 === Client for Dribbble API in nodejs
+
+`var dribbble = require("dribbble");`
