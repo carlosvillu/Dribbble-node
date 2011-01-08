@@ -1,6 +1,6 @@
 === Client for Dribbble API in nodejs
 
-autor: Carlos Villuendas Zambrana
+autor: Carlos Villuendas Zambrana.
 
 {{{
     var dribbble = require("dribbble");
