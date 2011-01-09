@@ -1,8 +1,4 @@
-var vows = require('vows'),
-    assert = require('assert'),
-    sys = require('sys');
-    
-var dribbble = require('./../lib/dribbble');
+require('./common');
 
 // Suite for testing the client.
 var client_suite = vows.describe("Basic tests for Dribbble´s client");
