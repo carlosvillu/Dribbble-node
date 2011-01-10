@@ -9,7 +9,7 @@ client_suite.addBatch({
             assert.ok(typeof topic === 'object');
         },
         "Should have a function to get the 'shots'":function(topic){
-            assert.ok(typeof topic.shots === 'function');
+            assert.ok(typeof topic.shot === 'function');
         },
         "Should have a function to get a set of rebounds":function(topic){
             assert.ok(typeof topic.rebounds === 'function');
