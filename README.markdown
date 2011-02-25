@@ -3,7 +3,6 @@
 author: Carlos Villuendas Zambrana.
 date: 7 / 1 / 2011
 
-
 ```javascript
 var dribbble = require("dribbble");
 ```
