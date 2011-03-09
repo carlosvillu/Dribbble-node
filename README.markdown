@@ -9,3 +9,6 @@ var dribbble = require("dribbble");
 
 #Dependencies
 
+* Request 1.2.0
+    
+    npm install request
