@@ -1,4 +1,4 @@
-## Client for Dribbble API in nodejs
+# Client for Dribbble API in nodejs
 
 author: Carlos Villuendas Zambrana.
 date: 7 / 1 / 2011
@@ -7,8 +7,10 @@ date: 7 / 1 / 2011
 var dribbble = require("dribbble");
 ```
 
-#Dependencies
+## Dependencies
 
 * Request 1.2.0
     
+    ```js
     npm install request
+    ```
